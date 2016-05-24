@@ -16,7 +16,6 @@ var Abc = function () {
 	function Abc() {
 		_classCallCheck(this, Abc);
 
-		// costam
 		this._foo();
 	}
 
@@ -24,8 +23,6 @@ var Abc = function () {
 		key: "_foo",
 		value: function _foo() {
 			console.log("ABC");
-
-			// costam
 		}
 	}]);
 
